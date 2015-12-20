@@ -1,0 +1,23 @@
+{
+  "name": "salestock-cli",
+  "version": "0.2.1",
+  "description": "salestock CLI app",
+  "bin": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Mustadi <muhammad.mustadi@gmail.com> (http://mustadi.xyz)",
+  "license": "ISC",
+  "dependencies": {
+    "ascii": "^0.1.0",
+    "async": "^1.5.0",
+    "chalk": "^1.1.1",
+    "cheerio": "^0.19.0",
+    "image-scraper": "^0.2.0",
+    "image-to-ascii": "^2.2.0",
+    "inquirer": "^0.11.0",
+    "lodash": "^3.10.1",
+    "meow": "^3.6.0",
+    "request": "^2.67.0"
+  }
+}
